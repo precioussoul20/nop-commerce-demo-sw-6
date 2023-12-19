@@ -1,0 +1,51 @@
+2023-12-17 19:12:769 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-17 19:12:277 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2023-12-17 19:12:08 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-17 19:12:693 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-17 19:12:886 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-17 19:12:881 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-17 19:12:02 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-17 19:12:110 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-17 19:12:955 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-17 19:12:86 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-17 19:12:384 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-17 19:12:164 INFO  HomePage :61 - Click on registerLink : Register
+2023-12-17 19:12:752 INFO  HomePage :80 - Get registerText : Register
+2023-12-17 19:12:879 INFO  HomePage :61 - Click on registerLink : Register
+2023-12-17 19:12:15 INFO  HomePage :88 - Select 'Female' radio button
+2023-12-17 19:12:268 INFO  HomePage :98 - Enter Firstname : 'Smart' to firstName field
+2023-12-17 19:12:349 INFO  HomePage :104 - Enter Lastname : 'Tester' to lastName field
+2023-12-19 19:12:222 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 19:12:938 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2023-12-19 19:12:81 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 19:12:495 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 19:12:735 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 19:12:316 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 19:12:278 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 19:12:517 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 19:12:608 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 19:12:64 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 19:12:300 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 19:12:262 INFO  HomePage :61 - Click on registerLink : Register
+2023-12-19 19:12:905 INFO  HomePage :80 - Get registerText : Register
+2023-12-19 19:12:807 INFO  HomePage :61 - Click on registerLink : Register
+2023-12-19 19:12:477 INFO  HomePage :88 - Select 'Female' radio button
+2023-12-19 19:12:831 INFO  HomePage :98 - Enter Firstname : 'Smart' to firstName field
+2023-12-19 19:12:72 INFO  HomePage :104 - Enter Lastname : 'Tester' to lastName field
+2023-12-19 20:12:270 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 20:12:746 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2023-12-19 20:12:817 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 20:12:404 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 20:12:533 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 20:12:344 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 20:12:988 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 20:12:119 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 20:12:853 INFO  HomePage :48 - Click on loginLink : Log in
+2023-12-19 20:12:442 INFO  HomePage :49 - Enter EmailId 'priya07@yahoo.co.in' to email field : 
+2023-12-19 20:12:589 INFO  HomePage :56 - Enter Password 'Tester123' to password field : 
+2023-12-19 20:12:168 INFO  HomePage :61 - Click on registerLink : Register
+2023-12-19 20:12:633 INFO  HomePage :80 - Get registerText : Register
+2023-12-19 20:12:104 INFO  HomePage :61 - Click on registerLink : Register
+2023-12-19 20:12:644 INFO  HomePage :88 - Select 'Female' radio button
+2023-12-19 20:12:827 INFO  HomePage :98 - Enter Firstname : 'Smart' to firstName field
+2023-12-19 20:12:947 INFO  HomePage :104 - Enter Lastname : 'Tester' to lastName field
